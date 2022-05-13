@@ -18,5 +18,5 @@ In terms of course structure:
     * Deploying models
     
    
-   
+    
 Stay tuned for the future notes!
