@@ -2,7 +2,7 @@
 Notes from "Practical Deep Learning from Visual Data" course will be here soon! 
 
 
-This is lecture, Google Colab is preferred as the environment due to its ease to share your codes and assignments via Google drive. As Python package in Deep Learning, we are going to use PyTorch library very often. 
+In this lecture, Google Colab is preferred as the environment due to its ease to share your codes and assignments via Google drive. As Python package in Deep Learning, we are going to use PyTorch library very often. 
 
 
 In terms of course structure: 
